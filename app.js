@@ -19,7 +19,7 @@ app.use(cors);
 app.use(checkLogOn);
 
 app.get('/', function(req, res) {
-	res.redirect("https://github.com/DoctorMcKay/steam-pics-api");
+	res.redirect("https://github.com/vintagesucks");
 });
 
 app.get('/changes/:changenumber', function(req, res) {
