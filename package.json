@@ -15,6 +15,6 @@
 	"dependencies": {
 		"steam-user": "^1.5.2",
 		"express": "^4.13.3",
-		"forver": "^0.15.3"
+		"forever": "^0.15.3"
 	}
 }
